@@ -46,15 +46,20 @@ python manage.py runserver
 them you have the project opened in local server on your own enviroment 
 
 # Users On System
-* username bk
-* password bk
-&nbsp;
-* username new 
-* password bk147258369
-&nbsp;
-* username anthor
-* pasword bk147258369
-&nbsp;
+
+* Admin
+
+      * username bk
+      * password bk
+* User
+
+      * username new 
+      * password bk147258369
+      
+
+      * username an thor
+      * pasword bk147258369
+
 # Api Url EndPoints
 ```
 127.0.0.1:8000/rest/login for login 
