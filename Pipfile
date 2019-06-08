@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+djangorestframework = "*"
+djangorestframework-simplejwt = "*"
+django-debug-toolbar = "*"
+django-import-export = "*"
+django-rest-swagger = "*"
+coreapi = "*"
+
+[requires]
+python_version = "3.6"
