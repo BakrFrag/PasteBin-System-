@@ -16,7 +16,7 @@ open your terminal or cmd and preform commands on action
 
 1.clone github repository with command
 ```
-git clone url
+git clone https://github.com/BakrFrag/Rasdii-Task
 ```
 2.install python pip
 ```
@@ -28,7 +28,7 @@ sudo pip3 install pipenv
 ```
 4.navigate to project folder 
 ```
-cd paste-bin
+cd Rasdii-Task
 ```
 5.run following commands on order
 ```
@@ -44,6 +44,9 @@ cd drftask
 python manage.py runserver
 ```
 them you have the project opened in local server on your own enviroment 
+login with 
+    * username:bk
+    * password:bk
 
 # Api Url EndPoints
 ```
